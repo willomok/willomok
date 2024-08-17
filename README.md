@@ -1,6 +1,6 @@
 # My Name is Will 
 
-Mainly a Front End developer, learning new technologies on a regular basis. 
+Full Stack Developer, learning new technologies regularly. 
 
 <div align="center">
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="TypeScript" title="TypeScript" /></code>
