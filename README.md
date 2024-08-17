@@ -1,4 +1,4 @@
-# My Name is Will 
+# My name is Will 
 
 Full Stack Developer, learning new technologies regularly. 
 
